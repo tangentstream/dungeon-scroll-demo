@@ -4,3 +4,7 @@
 
 Demonstrates how to randomly generate a GridMap based on a template
 for a section of an infinitely scrolling level in godot 4.3.
+
+MIT License
+
+Assets from https://kenney.nl/assets/mini-dungeon
