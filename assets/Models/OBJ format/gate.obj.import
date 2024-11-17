@@ -1,0 +1,22 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://cr7yi3nvboila"
+path="res://.godot/imported/gate.obj-667132b408408029b6c03250dfb9289e.mesh"
+
+[deps]
+
+files=["res://.godot/imported/gate.obj-667132b408408029b6c03250dfb9289e.mesh"]
+
+source_file="res://assets/Models/OBJ format/gate.obj"
+dest_files=["res://.godot/imported/gate.obj-667132b408408029b6c03250dfb9289e.mesh", "res://.godot/imported/gate.obj-667132b408408029b6c03250dfb9289e.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true
+force_disable_mesh_compression=false
